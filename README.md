@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning various programming languages;
 - 💞️ I’m looking to collaborate on developing complex structures and codes;
 - 📫 How to reach me full potential;
-- 😄 Pronouns: He/Him ;
 - ⚡ Fun fact: I was a former karate player for egyptian national team;
 
 <!---
