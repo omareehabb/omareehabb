@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing complex structures and codes;
 - 📫 How to reach me full potential;
 - ⚡ Fun fact: I was a former karate player for egyptian national team;
-- 👨‍💻 Stay tuned for upcoming, interesting projects...;
+- 👨‍💻 Stay tuned for upcoming, interesting projects... ;) 
 
 <!---
 omareehabb/omareehabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
